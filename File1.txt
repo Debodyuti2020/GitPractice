@@ -4,4 +4,7 @@
 
 (3) Updating again to try to commit without comments.
 
-(4.2) Adding one line in master branch's File 1 to perform fast-forward merging type 1.
+(4.2) Adding one line in master branch's File 1 to perform non-linear merging type 1.
+
+(4.1) In Bug123 : Trying to merge branches.
+
