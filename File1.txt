@@ -8,3 +8,4 @@
 
 (4.1) In Bug123 : Trying to merge branches.
 
+(5) In Bug456 : Trying to perform fast-forward / linear merge. 
