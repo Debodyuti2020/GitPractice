@@ -1,3 +1,5 @@
 (1) Here I am practicing GIT today. ~ 09-01-2023|14:35
 
 (2) Updating to use the add and commit command again.
+
+(3) Updating again to try to commit without comments.
