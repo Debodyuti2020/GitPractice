@@ -3,3 +3,5 @@
 (2) Updating to use the add and commit command again.
 
 (3) Updating again to try to commit without comments.
+
+(4) In Bug123 : Trying to merge branches.
